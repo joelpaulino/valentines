@@ -22,11 +22,10 @@ export default function Home() {
 
     const phrases = [
       "Wrong button ❌",
-      "Are you sure 🤔?",
-      "But what if 🫣?",
+      "Babe!!!",
       "You're breaking my heart 💔",
-      "Pwetty please 🥺👉👈",
-      "Can't catch up? 😂"
+      "Girl, you better say yes 🥺👉👈",
+      "Stop playing games with my heart 😭",
     ]
 
     const randomIndex = Math.floor(Math.random() * phrases.length);
